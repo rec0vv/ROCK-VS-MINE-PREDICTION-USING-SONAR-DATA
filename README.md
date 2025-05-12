@@ -1,5 +1,4 @@
 # ROCK-VS-MINE-PREDICTION-USING-SONAR-DATA
-# Rock vs Mine Classification
 
 This project uses machine learning to classify sonar signals as either **rocks** or **mines**. The dataset contains 60 features representing sonar signal strengths bounced off different objects. The model is trained using supervised learning and can make real-time predictions for new sonar inputs.
 
